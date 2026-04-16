@@ -1,1 +1,2 @@
-# bernoulli
+# Se corre con:
+# matlab -batch "codigo"
